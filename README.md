@@ -28,13 +28,13 @@
 
 ## GitHub Stats 📊
 
-![Mukhamad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Mukhamad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZulAnwar76&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
 ## Top Languages 👨‍💻
 
-![Mukhamad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact)
+![Mukhamad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZulAnwar76&theme=radical&layout=compact)
 
 ---
 
