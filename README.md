@@ -38,16 +38,6 @@
 
 ---
 
-## What I'm Working On 💻
-
-### I am currently working on:
-![Work In Progress GIF](https://media.giphy.com/media/3o7abIKNE6F5qTY5pS/giphy.gif)
-
-- **React.js Projects**: Improving my frontend skills.
-- **Web Application**: A full-stack web app using React.js & Node.js.
-
----
-
 ## Let's Connect! 🌐
 
 Feel free to reach out if you want to collaborate, chat about tech, or share knowledge. I’m always open to learning new things! 🙌
@@ -55,7 +45,7 @@ Feel free to reach out if you want to collaborate, chat about tech, or share kno
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
 - [Instagram](https://www.instagram.com/yourusername)
 - [GitHub](https://github.com/yourusername)
-- [Goodreads](https://www.goodreads.com/yourusername)
+
 
 ---
 
