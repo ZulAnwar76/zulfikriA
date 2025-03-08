@@ -6,7 +6,7 @@
 - 🚀 Currently diving deep into **React.js** for web development and exploring data-driven solutions using JavaScript.
 - 📫 You can reach me on:
   - [LinkedIn](https://www.linkedin.com/in/yourusername)
-  - [Instagram](https://www.instagram.com/yourusername)
+  - [Instagram](https://www.instagram.com/zulfikrianwaar)
   - [GitHub](https://github.com/yourusername)
 - 🧑‍💻 **Pronouns**: He/Him
 - ⚡ **Fun fact**: I'm a **Serena enthusiast**, and I can binge-watch **Webtoon** for hours! I love exploring different stories and art styles before bedtime. 📚✨
