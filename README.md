@@ -15,16 +15,14 @@
 
 ## My Skills & Technologies 🛠️
 
-- **Languages**: 
-  - JavaScript, TypeScript, Python, PHP
-- **Frameworks & Libraries**: 
-  - React.js, Node.js, Laravel, Express.js
-- **Tools & Platforms**: 
-  - Git, GitHub, Docker, Firebase
-- **Database**: 
-  - MySQL, MongoDB
-- **Others**: 
-  - Data Analysis, Web Development, Cybersecurity
+### Languages:
+![Languages](https://img.shields.io/badge/JavaScript-222222?style=flat&logo=javascript&logoColor=F7DF1E)
+![Languages](https://img.shields.io/badge/PHP-222222?style=flat&logo=php&logoColor=777BB4)
+![Languages](https://img.shields.io/badge/Python-222222?style=flat&logo=python&logoColor=3776AB)
+
+### Frameworks & Libraries:
+![React.js](https://img.shields.io/badge/React.js-222222?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-222222?style=flat&logo=node.js&logoColor=68A063)
 
 ---
 
@@ -42,7 +40,11 @@
 
 ## What I'm Working On 💻
 
-I'm currently working on a web application using **React.js** to enhance my frontend skills. I’m also contributing to **open-source projects** that focus on **data-driven web solutions**.
+### I am currently working on:
+![Work In Progress GIF](https://media.giphy.com/media/3o7abIKNE6F5qTY5pS/giphy.gif)
+
+- **React.js Projects**: Improving my frontend skills.
+- **Web Application**: A full-stack web app using React.js & Node.js.
 
 ---
 
@@ -58,3 +60,5 @@ Feel free to reach out if you want to collaborate, chat about tech, or share kno
 ---
 
 **Thanks for visiting! Have a great day! 😊**
+
+### ⚡ Let's build something amazing together! ✨
